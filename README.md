@@ -1,4 +1,8 @@
 # Project Based Experiments
+
+#### Name : Prajin S
+#### Register Number ; 212223230151
+
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
